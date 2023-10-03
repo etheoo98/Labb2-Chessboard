@@ -4,7 +4,7 @@ C# console application made for yet another beginners programming course.
 
 ## Assignment description
 * Create a new project in Visual Studio (Console Application → C# → .NET Core)
-* Rename the project to "Chessboard"
+* Name the project to "Chessboard"
 * When the program starts, the user should be allowed to enter a number.
 * You should then print a "chessboard" with as many rows and columns as the user indicated
 * You print the board by allowing each black square to be represented by this character ◼︎ and each white square of this character ◻︎. You should be able to copy these characters from this task description.
